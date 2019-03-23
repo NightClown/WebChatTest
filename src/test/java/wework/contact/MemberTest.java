@@ -92,4 +92,4 @@ class MemberTest {
         member.invite(map).then().statusCode(200).body("errorcode",equalTo(0));
     }
 
-}g
+}
