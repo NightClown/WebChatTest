@@ -1,0 +1,48 @@
+---
+userid: zhangsan
+name: 李四
+department:
+  - 1
+order:
+  - 10
+position: 后台工程师
+mobile: '15913215421'
+gender: '1'
+email: zhangsan@gzdev.com
+is_leader_in_dept:
+  - 1
+enable: 1
+avatar_mediaid:
+telephone: 020-123456
+alias: jackzhang
+address: 广州市海珠区新港中路
+extattr:
+  attrs:
+    - type: 0
+      name:
+      text:
+        value:
+    - type: 1
+      name:
+      web:
+        url: http://www.test.com
+        title:
+external_position: 工程师
+external_profile:
+  external_corp_name:
+  external_attr:
+    - type: 0
+      name:
+      text:
+        value:
+    - type: 1
+      name:
+      web:
+        url: http://www.test.com
+        title: 标题
+    - type: 2
+      name: 测试app
+      miniprogram:
+        appid:
+        pagepath: "/index"
+        title:
